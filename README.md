@@ -10,5 +10,21 @@
 this is moving
 </marquee>
  <p> im going to cry
+
+<p id="typing"></p>
+
+<script>
+const text = "hellooooooooooooooooooo";
+let i = 0;
+function typeWriter() {
+  if (i < text.length) {
+    document.getElementById("typing").innerHTML += text.charAt(i);
+    i++;
+    setTimeout(typeWriter, 100);
+  }
+}
+typeWriter();
+  <script/>
+   
 <body/>
 <html/>
