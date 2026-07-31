@@ -6,7 +6,9 @@
 
 <marquee> this is moving <marquee/>
 <p>okay i guess not</p>
-
+<marquee behavior="scroll" direction="left" scrollamount="5">
+this is moving
+</marquee>
   
 <body/>
 <html/>
