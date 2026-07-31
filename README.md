@@ -1,6 +1,6 @@
 <html>
 <body>
-<p align="center">YESSSSS OH MY GOD FUCKING FINALLY YESSSS YESSSS 🤤🤤🤤🤤🤤🤤</p>
+<p align="center">YESSSSS OH MY GOD FINALLY YESSSS YESSSS 🤤🤤🤤🤤🤤🤤</p>
   just A MINUTE...
   <p align="right">gay</p>
 
@@ -13,8 +13,7 @@
 
 <p> what the heck man </p>
 
-.text-red { color: #e74c3c; }  
-.text-blue { color: #3498db; }  
+<h align="center">HOW THE FUCK DO I DO THIS</h>
 
 <body/>
 <html/>
