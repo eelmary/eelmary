@@ -13,7 +13,7 @@
 
 <p> what the heck man </p>
 
-<p><red> red</red>
+[color=red]This text might be red[/color]
 
 <body/>
 <html/>
