@@ -16,8 +16,8 @@
 ### <p align="center" font size=100>how do i make this text bigger</p>
 <p>oh there we go <p/>
 
-
-
+<p>blinkie test<p/>
+<img src="https://external-media.spacehey.net/media/s9ikBMKcJEpaBRFadHDnojVaaXoRbWwUWq7JCOZ6CTSQ=/https://64.media.tumblr.com/c3ddba0f78413ddfcf63e28009b3f3a3/aac8a933a7070799-0c/s250x400/7989645a86f4cc0d74e35ee81e55fa235dcb4eb7.gifv">
   
 <body/>
 <html/>
