@@ -11,7 +11,6 @@ this is moving
 </marquee>
  <p> im going to cry
 
-<p id="typing"></p>
 
 
 
