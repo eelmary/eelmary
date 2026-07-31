@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<center>
+  HELLO! thanks for checking out my profile!
+</center>
 <!--
 **eelmary/eelmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
