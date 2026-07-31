@@ -1,4 +1,6 @@
-<!--<p style="text-align: center;"> HEY! thankks for checking out my profile </p>
+<!--<p style="text-align: center;">
+HEY! thankks for checking out my profile!
+</p>
 **eelmary/eelmary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
