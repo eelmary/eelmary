@@ -13,5 +13,7 @@
 
 <p> what the heck man </p>
 
+<p><red> red</red>
+
 <body/>
 <html/>
