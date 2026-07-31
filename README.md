@@ -13,7 +13,9 @@
 
 <p> what the heck man </p>
 
-[color=red]This text might be red[/color]
+<span style="color: #ff0000;">This text is red</span>  
+<span style="color: rgb(0, 255, 0);">This text is green</span>  
+<span style="color: blue;">This text is blue</span>  
 
 <body/>
 <html/>
