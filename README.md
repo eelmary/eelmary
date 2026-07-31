@@ -3,3 +3,5 @@ Here's some regular text.
 And some more regular text.
 
 NO THE FUCK IT ISNT
+
+<p align="center">This text will be centered</p>
