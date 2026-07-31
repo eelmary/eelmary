@@ -13,7 +13,7 @@
 
 <p> what the heck man </p>
 
-<p align="center" font size=20>HOW THE FUCK DO I DO THIS</p>
+<p align="center" font size=100>how do i make this text bigger</p>
 
 <body/>
 <html/>
