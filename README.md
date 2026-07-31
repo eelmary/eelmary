@@ -7,7 +7,9 @@
 <marquee> this is moving <marquee/>
 <p>okay i guess not</p>
 
-
+<span style="color:green;font-weight:700;font-size:20px">
+    this is green
+</span>
 
 <body/>
 <html/>
