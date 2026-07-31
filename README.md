@@ -13,9 +13,8 @@
 
 <p> what the heck man </p>
 
-<span style="color: #ff0000;">This text is red</span>  
-<span style="color: rgb(0, 255, 0);">This text is green</span>  
-<span style="color: blue;">This text is blue</span>  
+.text-red { color: #e74c3c; }  
+.text-blue { color: #3498db; }  
 
 <body/>
 <html/>
