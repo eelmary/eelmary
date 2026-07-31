@@ -13,7 +13,7 @@
 
 <p> what the heck man </p>
 
-<h align="center">HOW THE FUCK DO I DO THIS</h>
+<p align="center" font size=20>HOW THE FUCK DO I DO THIS</p>
 
 <body/>
 <html/>
