@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
- STAMP ATTACK!!!!!!!!!!
 <img src="https://i.postimg.cc/p5MThCW7/juhbjn.png">
 <img src="https://i.postimg.cc/8sLs82wC/iuhj.gif">
 <img src="https://i.postimg.cc/Xr1Yc4Nk/hgfh.png">
