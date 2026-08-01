@@ -1,9 +1,8 @@
 <html>
 <body>
 <p align="center">
-<img src="https://external-media.spacehey.net/media/s24tdfzvRhxD_CZNNSj2Nuc9-zTs3GdlpaMq8AfZc3oc=/https://github.com/spamtennawireplay/spamtennawireplay/raw/main/tumblr_sy6gd5NrOJ1ahw4dk_720-ezgif.com-gif-maker.gif"?
-  </p>
-
+<img src="https://i.postimg.cc/pdk6Py1w/awe-so-cout.gif">
+</p>
 
   
 <p align="center">
