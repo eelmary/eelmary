@@ -5,7 +5,7 @@
 how tHE FUCK DO I COLOR TEXT IM GOING TO CRASH OUT
 </p>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hiiiii;ARE WE DEADASS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=can-i-actually-not-write-spaces;Takemeouttotheballgame.)](https://git.io/typing-svg)
 
 
   
