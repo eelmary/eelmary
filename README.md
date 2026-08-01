@@ -9,7 +9,18 @@
 </p>
 
 <p align="center">
- ## STAMP ATTACK!!!!!!!!!!
+ STAMP ATTACK!!!!!!!!!!
+<img src="https://i.postimg.cc/p5MThCW7/juhbjn.png">
+<img src="https://i.postimg.cc/8sLs82wC/iuhj.gif">
+<img src="https://i.postimg.cc/Xr1Yc4Nk/hgfh.png">
+<img src="https://i.postimg.cc/3kQMvwvv/csakn.gif">
+<img src="https://i.postimg.cc/fSszTb5W/jhugyfcv.gif">
+<img src="https://i.postimg.cc/gryctvkM/poiuy.gif">
+<img src="https://i.postimg.cc/t1Vp36MX/lkjh.gif">
+<img src="https://i.postimg.cc/9rWZFdx7/vhg.gif">
+<img src="https://i.postimg.cc/dD9ZX7qZ/asfg.png">
+
+ 
 </p>
 
 
