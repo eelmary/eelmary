@@ -73,20 +73,27 @@
 <p align="center">
 PLEASE int if you like any of these oh my god bruh
 
+<img src="https://i.postimg.cc/sGjHXj9b/blinkies-Cafe-MZ.gif">
+<img src="https://i.postimg.cc/Kkys6r16/yes-guyssss.gif">
+<img src="https://i.postimg.cc/gnr4BBMq/ween.gif">
+<img src="https://i.postimg.cc/YL0NZhzd/wwattt.gif">
+<img src="https://i.postimg.cc/4n0pn45d/ut.gif">
+<img src="https://i.postimg.cc/dDZLH28b/dr.gif">
+<img src="https://i.postimg.cc/ygcC98Z2/phmm.gif">
+<img src="https://i.postimg.cc/VJJfv1Kr/iron-lung.gif">
+<img src="https://i.postimg.cc/9z0NvM0q/js.gif">
+<img src="https://i.postimg.cc/JHHxtsHG/bbmm.gif">
+<img src="https://i.postimg.cc/7GdMvqtY/goodomens.gif">
+<img src="https://i.postimg.cc/9rjZy86f/wwditss.gif">
+<img src="https://i.postimg.cc/KkPvbNJc/hanni.gif">
+<img src="https://i.postimg.cc/9r8ZRdj4/thd.gif">
+<img src="https://i.postimg.cc/LnnhWGr5/tgp.gif">
+<img src="https://i.postimg.cc/9D2597tq/thddd.gif">
 <img src="">
 <img src="">
 <img src="">
 <img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+
 
 
 
