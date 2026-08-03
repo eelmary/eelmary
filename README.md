@@ -46,7 +46,6 @@
 <img src="https://i.postimg.cc/Xv7gkWVG/fuyjh.webp">
 <img src="https://i.postimg.cc/z3VQHBnV/isopod.png">
 <img src="https://i.postimg.cc/GHPx4wSJ/not-this-again.gif">
-<img src="https://i.postimg.cc/J4v6dRNg/not-this-again.gif">
 <img src="https://i.postimg.cc/fLPmTRRZ/spacew.gif">
 <img src="https://i.postimg.cc/wBTw13gB/nandor.png">
 <img src="https://i.postimg.cc/xcFMJf3f/penguin.png">
