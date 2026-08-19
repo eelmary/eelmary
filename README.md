@@ -11,7 +11,7 @@ pfp by @mishaaa6 on pinterest!
 
 <p></p>
 <p align="center">
- <img src="https://postimg.cc/yDqH1XZ3">
+ <img src="https://i.postimg.cc/RZhVTgCd/blue-deltaru.gif">
 </p>
 
 <p align="center">
