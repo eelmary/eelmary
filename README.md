@@ -11,7 +11,7 @@ pfp by @mishaaa6 on pinterest!
 
 <p></p>
 <p align="center">
- <img src="https://i.postimg.cc/0NpJSw-qt/god.gif">
+ <img src="https://postimg.cc/yDqH1XZ3">
 </p>
 
 <p align="center">
