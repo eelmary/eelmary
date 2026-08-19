@@ -51,7 +51,7 @@ pfp by @mishaaa6 on pinterest!
 <img src="https://i.postimg.cc/V569wB54/jnhugh.gif"> 
 <img src="https://i.postimg.cc/cKxgm03q/dtrf.png">
 <img src="https://i.postimg.cc/LnSHfvLM/hjbgf.gif">
-<img src="https://i.postimg.cc/WFsp2mx7/blue.png">
+<img src="https://i.postimg.cc/4nJv0r2W/belu-oedljtlksuane.png">
 <img src="https://i.postimg.cc/s1dB6Y7J/yugfv.webp">
 <img src="https://i.postimg.cc/Xv7gkWVG/fuyjh.webp">
 <img src="https://i.postimg.cc/Mv6sycJF/blue-de.png">
