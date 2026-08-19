@@ -6,7 +6,7 @@
 <img src="https://i.postimg.cc/Q9jNXgvc/its-me.webp">
  <p> </p>
 <p align="center">
- <img src="https://i.postimg.cc/CZf25d3h/divider.png">
+ <img src="https://i.postimg.cc/tgrGrxDx/divider.png">
 </p>
 
 <p></p>
