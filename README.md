@@ -2,8 +2,7 @@
 <body>
 
  
-<p align="center">
-<img src="https://i.postimg.cc/Q9jNXgvc/its-me.webp">
+
  <p> </p>
 <p align="center">
  <img src="https://i.postimg.cc/tgrGrxDx/divider.png">
