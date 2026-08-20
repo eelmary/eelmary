@@ -24,9 +24,9 @@
 <img src="https://i.postimg.cc/gXscMZvX/ygu.png">
 <img src="https://i.postimg.cc/kBzJh9tq/liugyf.png">
 <img src="https://i.postimg.cc/JtdMGmxX/asnjc.gif">
-<img src="https://i.postimg.cc/TLT2RjB9/bloo.webp">
+<img src="https://i.postimg.cc/hjdX1prH/bloo.webp">
 <img src="https://i.postimg.cc/Yh57z3J3/jkhuigyftc.gif">
-<img src="https://i.postimg.cc/S2mQyLHd/deltarun-blue.webp">
+<img src="https://i.postimg.cc/FRLYVDZM/deltarun-blue.webp">
 <img src="https://i.postimg.cc/k6spfxY5/awewe.gif">
 <img src="https://i.postimg.cc/SYX0W2VF/csauihf.gif">
 <img src="https://i.postimg.cc/8FRPQXX4/bleu.png">
