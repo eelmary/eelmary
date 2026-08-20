@@ -9,20 +9,6 @@
 </p>
 
 
-
-
-
-<p></p>
-<p align="center">
- <img src="https://i.postimg.cc/5yhP7xZ4/resiiiiiized.gif">
-</p>
-
-
-<p align="center">
- <img src="https://i.postimg.cc/cJdhjt2d/blu-flower.png">
-</p>
-
-
 <p align="center">
 <img src="https://i.postimg.cc/p5MThCW7/juhbjn.png">
 <img src="https://i.postimg.cc/8sLs82wC/iuhj.gif">
@@ -71,6 +57,22 @@
 <img src="https://i.postimg.cc/Y4G8t6XG/item.jpg">
 <img src="https://i.postimg.cc/kV0sG2Zc/mercy.jpg">
 <p></p>
+
+
+<p align="center">
+ <img src="https://i.postimg.cc/cJdhjt2d/blu-flower.png">
+</p>
+
+
+<p></p>
+<p align="center">
+ <img src="https://i.postimg.cc/5yhP7xZ4/resiiiiiized.gif">
+</p>
+
+
+
+
+
 
 <p align="center">
 
