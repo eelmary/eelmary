@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://i.postimg.cc/p5MThCW7/juhbjn.png">
 <img src="https://i.postimg.cc/8sLs82wC/iuhj.gif">
-<img src="https://i.postimg.cc/cgZnyrdN/homee.gif">
+<img src="https://i.postimg.cc/xcFMJf3f/penguin.png">
 <img src="https://i.postimg.cc/RFHWLXR2/blue.png">
 <img src="https://i.postimg.cc/gryctvkM/poiuy.gif">
 <img src="https://i.postimg.cc/t1Vp36MX/lkjh.gif">
@@ -49,7 +49,7 @@
 <img src="https://i.postimg.cc/GHPx4wSJ/not-this-again.gif">
 <img src="https://i.postimg.cc/Q9jNXgv5/ble.png">
 <img src="https://i.postimg.cc/wBTw13gB/nandor.png">
-<img src="https://i.postimg.cc/xcFMJf3f/penguin.png">
+<img src="https://i.postimg.cc/cgZnyrdN/homee.gif">
 <img src="https://i.postimg.cc/8zQpWMXB/awe-omg.webp">
 <img src="https://i.postimg.cc/YGt2pNTf/bluep.png">
 <img src="https://i.postimg.cc/YLfbJtdv/fight.jpg">
