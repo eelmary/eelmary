@@ -76,7 +76,7 @@
 
 <p align="center">
 
-
+also sorry if i dont resp quick i sometimes go off the tab I WANT TO TALK TO YOU I PROMISE OMG
 
  
 <body/>
