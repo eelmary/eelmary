@@ -76,7 +76,7 @@
 
 <p align="center">
 
-note: PLEASE avoid rp unless it's oc! m deathly afraid of mischaracterization!!!!!
+
 
  
 <body/>
