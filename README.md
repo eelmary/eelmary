@@ -1,7 +1,7 @@
 <html>
 <body>
 
- ^note:^ ^please^ ^avoid^ ^rp^ ^unless^ ^it's^ ^oc!^ ^im^ ^deathly^ ^fraid^ ^of^ ^mischaracterization,^ ^and^ ^would^ ^rather^ ^put^ ^somethin^ ^sharp^ ^close^ ^to^ ^my^ ^eye^ ^than^ ^write^ ^a^ ^single^ ^sentence^ ^in^ ^blue's^ ^prose.^ ^he's^ ^hard^ ^to^ ^write^ ^okay..........^
+ARE WE DEADASS
 
  <p> </p>
 <p align="center">
