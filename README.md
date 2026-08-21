@@ -76,7 +76,7 @@
 
 <p align="center">
 
-note: PLEASE avoid rp unless it's oc! im deathly afraid of mischaracterization, and i'd take tying my head to the leg of an unbroken horse any day over writing a single sentence of blue's prose. he's hard to write okay.......
+note: PLEASE avoid rp unless it's oc! m deathly afraid of mischaracterization!!!!!
 
  
 <body/>
