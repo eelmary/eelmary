@@ -1,7 +1,7 @@
 <html>
 <body>
 
-ARE WE DEADASS
+
 
  <p> </p>
 <p align="center">
@@ -76,7 +76,7 @@ ARE WE DEADASS
 
 <p align="center">
 
-also sorry if i dont resp quick i sometimes go off the tab I WANT TO TALK TO YOU I PROMISE OMG
+note: PLEASE avoid rp unless it's oc! im deathly afraid of mischaracterization, and i'd take tying my head to the leg of an unbroken horse any day over writing a single sentence of blue's prose. he's hard to write okay.......
 
  
 <body/>
