@@ -1,8 +1,6 @@
 <html>
 <body>
 
-note: im sorry i like talking to people but im very socially awkward when talking to more than one person i dont know 😭 forgivr me if i go quiet for a mineuh et okay gh 😭😭😭😭😭
-
  <p> </p>
 <p align="center">
  <img src="https://i.postimg.cc/cLGL073x/tielz.png">
