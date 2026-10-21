@@ -10,7 +10,7 @@ note: im sorry i like talking to people but im very socially awkward when talkin
 
 
 <p align="center">
-<img src="https://i.postimg.cc/21ZfNKCd/da-boys.jpg">
+<img src="https://i.postimg.cc/htC4xkwY/da-boys.jpg">
 
 
 <p></p>
