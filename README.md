@@ -20,8 +20,7 @@
 
 
 <p></p>
-<p align="center">
- <img src=>
+
 </p>
 
 
