@@ -5,7 +5,7 @@ note: im sorry i like talking to people but im very socially awkward when talkin
 
  <p> </p>
 <p align="center">
- <img src="https://i.postimg.cc/tgrGrxDx/divider.png">
+ <img src="https://postimg.cc/GHzCjyzV">
 </p>
 
 
