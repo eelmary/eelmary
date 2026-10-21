@@ -3,7 +3,7 @@
 
  <p> </p>
 <p align="center">
- <img src="https://i.postimg.cc/cLGL073x/tielz.png">
+ <img src="https://i.postimg.cc/W385b7tr/awecut.png">
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 <p align="center">
- <img src="https://i.postimg.cc/cJdhjt2d/blu-flower.png">
+ <img src="https://i.postimg.cc/W385b7tr/awecut.png">
 </p>
 
 
