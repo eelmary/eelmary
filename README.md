@@ -21,7 +21,7 @@
 
 <p></p>
 <p align="center">
- <img src="https://i.postimg.cc/5yhP7xZ4/resiiiiiized.gif">
+ <img src=>
 </p>
 
 
