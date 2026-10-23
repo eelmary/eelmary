@@ -22,7 +22,9 @@
  <img src="https://i.postimg.cc/G45hdTW9/teeth.png">
 </p>
 
-sam & max fans int PLEASE OH MY GOOOOOOOOOOOOOOOOOOOOOOOOOOD
+<p align="center">
+about me!!!!!!!!!
+fksdjhfkjdsmcnkjdgfsjagkdhijashfkjbvkjbskejfkjdsbknv
 
 <p></p>
 
