@@ -24,11 +24,12 @@
 </p>
 
 <p align="center">
-=ehy so why arent you bold=
+=about me!!!!!1=
 </p>
 
 <p align="center">
-dxfcgvhbj
+my name is colt! i'm a traditional artist and i love music and animation and all artsy stuff
+i'm in a couple of fandoms, if interested, you can check out my pronouns.cc page to see my main ones!
 </p>
 
 
