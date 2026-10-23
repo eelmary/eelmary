@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-**about me!!**
+**ehy so why arent you bold**
 </p>
 
 <p align="center">
