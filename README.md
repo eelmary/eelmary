@@ -39,7 +39,7 @@ i'm in a couple of fandoms, if interested, you can check out my pronouns.cc page
 </p>
 
 <p align="center">
-i'm usually cosplaying either sam or max, you can find me nearing the bottom of the map OR in the path to the right past the docks!
+i'm usually cosplaying either sam or max, you can find me nearing the bottom of the map OR idk somewhere near docks.....
 </p>
 <p align="center">
 if i'm not with friends, i'm probably AFK (my name will always say if i am!) in this time i'm offtab and can't see interactions so please whisp if you wanna talk to me! i check back every few minutes :]
