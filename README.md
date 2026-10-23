@@ -44,7 +44,13 @@ i'm usually cosplaying either sam or max, you can find me nearing the bottom of 
 <p align="center">
 if i'm not with friends, i'm probably AFK (my name will always say if i am!) in this time i'm offtab and can't see interactions so please whisp if you wanna talk to me! i check back every few minutes :]
 </p>
+<p align="center">
+finally c+h is SUPER enc! especially with matching cos i will literally love you forever
+</p>
 
+<p align="center">
+ <img src="https://i.postimg.cc/G45hdTW9/teeth.png">
+</p>
 
 
 <p align="center">
