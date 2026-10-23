@@ -22,6 +22,8 @@
  <img src="https://i.postimg.cc/G45hdTW9/teeth.png">
 </p>
 
+---
+
 <p align="center">
 about me!!!!!!!!!
 fksdjhfkjdsmcnkjdgfsjagkdhijashfkjbvkjbskejfkjdsbknv
