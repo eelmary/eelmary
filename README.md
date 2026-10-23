@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-*about me!!!!!!!!!!!*
+THHOSEE ARE NOT FUCKEN ASTERISKS
 </p>
 
 <p align="center">
