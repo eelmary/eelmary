@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-***about me!!!!!!!!!!!***
+*about me!!!!!!!!!!!*
 </p>
 
 <p align="center">
